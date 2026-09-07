@@ -1,6 +1,6 @@
 # AI File Analysis Agent
 
-A beginner-friendly command-line AI agent, built in Python with the OpenAI Responses API, that lets you upload a file (PDF, TXT, DOCX, or CSV) and ask natural-language questions about it — no separate function needed for every possible question.
+A command-line AI agent, built in Python with the OpenAI Responses API, that lets you upload a file (PDF, TXT, DOCX, or CSV) and ask natural-language questions about it — no separate function needed for every possible question.
 
 ## Features
 
