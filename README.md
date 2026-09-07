@@ -26,11 +26,6 @@ file-analysis-agent/
 
 1. **Clone the repo**
 
-   ```bash
-   git clone https://github.com/<your-username>/file-analysis-agent.git
-   cd file-analysis-agent
-   ```
-
 2. **Create and activate a virtual environment**
 
    ```bash
@@ -115,6 +110,3 @@ Open file → Upload file → Get file ID → Send question + file ID → Model 
 - Keep `.env` out of version control (already handled by `.gitignore`).
 - Be careful uploading sensitive files (medical, financial, or confidential documents) — review your data-handling and retention needs before processing sensitive data with any third-party API.
 
-## License
-
-MIT — feel free to use and adapt this project.
