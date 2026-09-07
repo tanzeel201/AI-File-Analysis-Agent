@@ -2,8 +2,6 @@
 
 A beginner-friendly command-line AI agent, built in Python with the OpenAI Responses API, that lets you upload a file (PDF, TXT, DOCX, or CSV) and ask natural-language questions about it — no separate function needed for every possible question.
 
-Based on the freeCodeCamp tutorial: [How to Build an AI File Analysis Agent with Python](https://www.freecodecamp.org/news/build-an-ai-analysis-agent/).
-
 ## Features
 
 - Upload a file from your computer and send it directly to the model
